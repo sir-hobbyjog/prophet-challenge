@@ -21,7 +21,8 @@ To run this project, ensure you have the following libraries and dependencies in
 
 You can install these dependencies via pip:
 ```bash
-pip install pandas prophet matplotlib numpy```  
+pip install pandas prophet matplotlib numpy
+```  
 
 ## Additional Notes
 - The analysis indicates a limited but noticeable correlation between Google search activity and stock price movements for Mercado Libre, particularly around significant corporate events like earnings releases.  
